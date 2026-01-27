@@ -1,0 +1,6 @@
+[submodule "notebooks/Leonardo"]
+	path = notebooks/Leonardo
+	url = https://github.com/leonatya/Comportamento-de-Compras-X-SELIC.git
+[submodule "notebooks/Miguel"]
+	path = notebooks/Miguel
+	url = https://github.com/meafilho/Curso_Analista_de_Dados_II.git
